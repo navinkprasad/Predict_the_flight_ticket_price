@@ -22,3 +22,8 @@ Total_Stops: Total stops between the source and destination.<br/>
 Additional_Info: Additional information about the flight Price: The price of the ticket
 
 data source:https://machinehack.com/hackathons/predict_the_flight_ticket_price_hackathon/overview
+
+
+**Score******:
+
+![image](https://user-images.githubusercontent.com/89060452/142716855-e4e8f112-2284-481e-9ff9-af8c2d343aa7.png)
